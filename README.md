@@ -1,20 +1,5 @@
 # Cursor Landing Page Clone
 
-This project is a **static HTML & CSS recreation of the Cursor landing page**.  
-The goal of this project was to closely replicate the structure, layout, and visual style of the original Cursor website while using **pure HTML and CSS** (no frameworks, no JavaScript).
-
-This clone focuses on layout accuracy, spacing, typography, and component structure rather than functionality.
-
----
-
-##  Project Overview
-
-- Fully responsive landing page layout
-- Built using **semantic HTML5**
-- Styled using **vanilla CSS**
-- Dark-theme UI inspired by Cursor’s official website
-- Component-based sectioning for easy maintenance
-
 This project is intended for:
 - Learning advanced layout techniques
 - Practicing real-world UI recreation
@@ -22,7 +7,7 @@ This project is intended for:
 
 ---
 
-##  Sections Recreated
+##  Sections created
 
 The following sections from the original website have been recreated:
 
