@@ -87,30 +87,30 @@ This ensures:
 ## Demo Screenshots
 
 ### Navbar and Hero
-![Page 1](assets/demo/page1.png)
+![Page 1](cursor/assets/demo/page1.png)
 
 ### Trusted companies
-![Page 2](assets/demo/page2.png)
+![Page 2](cursor/assets/demo/page2.png)
 
 ### Features
-![Page 3](assets/demo/page3.png)
+![Page 3](cursor/assets/demo/page3.png)
 
 ### Features
-![Page 4](assets/demo/page4.png)
+![Page 4](cursor/assets/demo/page4.png)
 
 ### Testimonials
-![Page 5](assets/demo/page5.png)
+![Page 5](cursor/assets/demo/page5.png)
 
 ### Frontier
-![Page 6](assets/demo/page6.png)
+![Page 6](cursor/assets/demo/page6.png)
 
 ### Changelog
-![Page 7](assets/demo/page7.png)
+![Page 7](cursor/assets/demo/page7.png)
 
 ### Highlights and CTA
-![Page 8](assets/demo/page8.png)
+![Page 8](cursor/assets/demo/page8.png)
 
 ### Footer
-![Page 9](assets/demo/page9.png)
+![Page 9](cursor/assets/demo/page9.png)
 
 
